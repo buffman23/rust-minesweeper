@@ -1,7 +1,9 @@
 # rust-minesweeper
 
 A Console minesweeper game written in rust.
+
 UTF-8 Terminal required.
+
 WIP.
 
 commands:
