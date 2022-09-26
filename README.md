@@ -13,7 +13,7 @@ seed <uint> - sets the minefield seed. The next random int in the sequence will 
 s | sweep <x> <y> - sweep a tile
 f | flag <x> <y> - flag a tile
 d | density <float> - set the minefield bomb count by density
-c | count - set the minefield bomb count
+c | count <uint> - set the minefield bomb count
 r | reset - reset the field
 ```
 ![ms_new](https://user-images.githubusercontent.com/25783731/191408275-2d37aa89-9596-4aa5-b967-362926ffc997.png)
